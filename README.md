@@ -1,10 +1,9 @@
 <p align="left"><a href="https://vertemati.space" target="_blank"><img src="https://raw.githubusercontent.com/avvertix/avvertix/refs/heads/main/art/logo.svg" height="80"></a></p>
 
 
-## Hi there 👋
+### Hi there, I'm Alessio 👋
 
-
-### Full-Stack Engineer + AI Engineer by day ✨, UI/UX enthusiast by night 🔭
+#### Full-Stack Engineer + AI Engineer by day ✨, UI/UX enthusiast by night 🔭
 
 Full-Stack Engineer consultant at [OneOffTech](https://oneofftech.de);
 
